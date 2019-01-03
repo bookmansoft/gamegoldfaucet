@@ -1,0 +1,10 @@
+{
+  "port": "8186",
+  "netWorkType" : "testnet",
+	"gameGoldNode": "127.0.0.1",
+	"apiKey": "bookmansoft",
+	"walletId": "primary",
+  "accountId": "xxxxxxxx-game-gold-root-xxxxxxxxxxxx",
+  "accountToken": "03aee0ed00c6ad4819641c7201f4f44289564ac4e816918828703eecf49e382d08",
+	"captchaSecret": "bookmansoft"
+}
